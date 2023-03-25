@@ -51,6 +51,10 @@ Installation:
         ```
         source env/bin/activate
         ```
+    - Install the requirements by using this command 
+       ```
+       pip install -r requirements.txt
+       ```
 
     - Receive meeage via consumer.
  
